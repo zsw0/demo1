@@ -6,7 +6,7 @@
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "Hello,world!",
+    "navigationBarTitleText": "创建分支test1",
     "navigationBarTextStyle":"black"
   }
 }
